@@ -77,7 +77,7 @@ const Lost = () => {
     formDataToSend.append("image", formData.image);
 
     try {
-      const res = await fetch("https://automatex-lost-and-found-9rel.vercel.app/api/upload", {
+      const res = await fetch("http://localhost:3000/upload", {
         method: "POST",
         body: formDataToSend,
       });

@@ -13,7 +13,7 @@ const app = express();
 
 // Enable CORS for requests from your frontend
 app.use(cors({
-  origin: 'https://automatex-lost-and-found-9rel.vercel.app', 
+  origin: 'http://localhost:5173', 
 }));
 
 const storage = multer.diskStorage({
