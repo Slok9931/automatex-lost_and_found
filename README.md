@@ -21,7 +21,7 @@
 
 ## 📸 Demo
 
-🌐 [Live Website](https://your-live-site-url.com)
+🌐 [Live Website]()
 
 ## 📂 Project Structure
 
@@ -40,8 +40,8 @@ automatex-lost-found/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-group-name/automatex-lost-found.git
-cd automatex-lost-found
+git clone https://github.com/Slok9931/automatex-lost_and_found.git
+cd automatex-lost_and_found
 ```
 
 ### 2. Install dependencies
